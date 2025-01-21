@@ -30,7 +30,7 @@ Especialidad: Mecánica
 
 **Oct/2024 - Actualmente**  
 **Prácticas en Área de Gestión de Ingenierías y Diseño** 
-- *Acciona Construcción, Madrid*  
+*Acciona Construcción, Madrid*
 - Gestión de proyectos de construcción en fase de licitación
   
 **Oct/2021 - Abr/2022**  
