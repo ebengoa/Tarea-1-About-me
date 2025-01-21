@@ -26,6 +26,27 @@ Especialidad: Mecánica
 
 ---
 
+## Experiencia Profesional 
+
+**Oct/2024 - Actualmente**  
+**Prácticas en Área de Gestión de Ingenierías y Diseño** 
+*Acciona Construcción, Madrid*  
+- Gestión de proyectos de construcción en fase de licitación
+  
+**Oct/2021 - Abr/2022**  
+**Prácticas de Ingeniería Industrial**  
+*Naturgy, Madrid*  
+- Gestión de Energía y Mercados.  
+- Digitalización de Procesos y Sistemas  
+
+**Oct/2022 – Abr/2023**  
+**Beca de colaboración para el apoyo a la docencia**  
+*Universidad Pontificia Comillas (ICAI), Madrid*  
+- Departamento de Ingeniería Mecánica 
+
+---
+
+
 ## Idiomas  
 
 **Inglés**: Nivel alto (hablado, escrito y leído)  
@@ -48,24 +69,4 @@ Especialidad: Mecánica
 - **Hípica**: Galope 4 (Ago/2015)  
 - **Golf**: HCP 15,7  
 - **Esquí**
-
----
-
-## Experiencia Profesional 
-
-**Oct/2024 - Actualmente**  
-**Prácticas en Área de Gestión de Ingenierías y Diseño** 
-*Acciona Construcción, Madrid*  
-- Gestión de proyectos de construcción en fase de licitación
-  
-**Oct/2021 - Abr/2022**  
-**Prácticas de Ingeniería Industrial**  
-*Naturgy, Madrid*  
-- Gestión de Energía y Mercados.  
-- Digitalización de Procesos y Sistemas  
-
-**Oct/2022 – Abr/2023**  
-**Beca de colaboración para el apoyo a la docencia**  
-*Universidad Pontificia Comillas (ICAI), Madrid*  
-- Departamento de Ingeniería Mecánica 
 
