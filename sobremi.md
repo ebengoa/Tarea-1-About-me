@@ -22,4 +22,4 @@ Me interesan las tecnologías industriales, el aprendizaje continuo y los retos 
 ---
 
 ✨ *Gracias por pasarte por aquí.*  
-© Elena Bengoa Rico
+
